@@ -1,0 +1,2 @@
+# Language-Detection-using-k-means-Clusterin
+This project aims to identify language ether from a spoken utterance or a plain text. So, the main idea behind this project is to take a voice record from user and convert it to an ordinary text then the program we are creating convert this text to numbers so it can understand it, Here comes k-means clustering. K-means clustering is an AI technique that aims to group N-samples to k-clusters. In other words, every alike samples lie in the same group (cluster). 
